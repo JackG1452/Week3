@@ -1,0 +1,5 @@
+﻿  main.cpp
+u:\object oriented\week3\week3\main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+u:\object oriented\week3\week3\main.cpp(133): warning C4018: '<': signed/unsigned mismatch
+u:\object oriented\week3\week3\main.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  Week3.vcxproj -> U:\Object Oriented\Week3\Debug\Week3.exe
